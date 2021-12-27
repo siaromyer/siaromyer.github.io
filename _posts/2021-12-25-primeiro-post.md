@@ -6,7 +6,7 @@ tags: TeXt
 key: Postagem
 pageview: true
 align: center
-author: !!map
+author: Reinaldo Teixeira
 article_header:
   type: cover
   image:
