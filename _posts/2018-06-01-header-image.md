@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: article
 title: Post with Header Image
 tags: TeXt
 article_header:
