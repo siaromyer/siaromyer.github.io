@@ -1,5 +1,6 @@
 ---
 layout: article
+tags: TeXt
 titles:
   # @start locale config
   en      : &EN       About
