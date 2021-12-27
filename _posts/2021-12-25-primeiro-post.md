@@ -12,6 +12,7 @@ article_header:
   image:
     src: /screenshot.jpg
 ---
+![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 Postagem de teste. Este post é uma postagem TESTE!
 
