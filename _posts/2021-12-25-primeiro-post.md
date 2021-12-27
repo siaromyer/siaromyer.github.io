@@ -3,9 +3,8 @@ layout: article
 title: Primeiro Post
 mathjax: true
 tags: TeXt
-key: Postagem
+key: _0001
 pageview: true
-align: center
 author: Reinaldo Teixeira
 article_header:
   type: cover
