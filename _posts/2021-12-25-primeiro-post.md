@@ -1,8 +1,9 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: Primeiro Post
 mathjax: true
 tags: TeXt
+comment: 
 ---
 
 Postagem de teste. Este post é uma postagem TESTE!
