@@ -6,6 +6,7 @@ tags: TeXt
 key: _0001
 pageview: true
 author: Reinaldo Teixeira
+show_cover: true
 article_header:
   type: cover
   image:

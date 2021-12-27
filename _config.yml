@@ -36,7 +36,7 @@ timezone: America/Cuiaba
 author:
   type      : person # "person" (default), "organization"
   name      : Reinaldo Teixeira
-  url       :
+  url       : siaromyer.github.io
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : siaromyer@protonmail.com
@@ -84,8 +84,8 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
+mathjax: true # false (default), true
+mathjax_autoNumber: true # false (default), true
 
 ## Mermaid
 mermaid: # false (default), true
@@ -112,7 +112,7 @@ sharing:
 
   ## AddThis
   addthis:
-    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
+    id: ra-61ca12873c71a920
 
 
 ## => Comments
