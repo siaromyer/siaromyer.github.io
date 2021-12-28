@@ -6,7 +6,7 @@ tags: TeXt
 key: _0001
 pageview: true
 author: Reinaldo Teixeira
-cover: /docs/assets/images/axure/articles-item-excerpt-readmore-info.jpg
+cover: /screenshot.jpg
 ---
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
