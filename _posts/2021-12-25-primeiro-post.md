@@ -7,8 +7,11 @@ key: _0001
 pageview: true
 author: Reinaldo Teixeira
 cover: /screenshot.jpg
+article_header:
+  type: cover
+  image:
+    src: /screenshot.jpg
 ---
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 Postagem de teste. Este post é uma postagem TESTE!
 
